@@ -88,7 +88,7 @@ export default function BirthdayCelebration() {
             >
               <div className="text-center">
                 <p className="text-purple-700 mb-2">
-                You are my love my favourite person I always wanted to see you on top with me or without me I know I made mistake all time that hurt you I am sorry for that but you are my special person without you I can't imagine my life I am just want to be close to you always A Small talk with you make my day and when I see a glimpse of you I think I see a most beautiful thing in this world you love me or not but I always love you and pray to god that you will be my future partner and always be happy and enjoy your day
+                                Just wanted to remind you—you're my favorite person. My days are better, smiles are wider, and life is sweeter because of you.
                 </p>
                 <p className="text-pink-600 font-medium">I hope your birthday is full of love, magic, and everything that makes you smile 💖</p>
                 <div className="flex justify-center">
