@@ -7,7 +7,7 @@ import BirthdayCelebration from "@/components/birthday-celebration"
 import Confetti from "@/components/confetti"
 import FloatingHearts from "@/components/floating-hearts"
 import Loader from "@/components/Loader" // Fixed: Matches 'Loader.jsx'
-
+import { MoveRight, PartyPopper } from "lucide-react"
 
 export default function Home() {
   const [isBirthday, setIsBirthday] = useState(false)
