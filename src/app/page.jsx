@@ -2,11 +2,11 @@
 
 import { useState, useEffect, useRef } from "react"
 import { motion, AnimatePresence } from "framer-motion"
-import Countdown from "/components/countdown"
-import BirthdayCelebration from "/components/birthday-celebration"
-import Confetti from "/components/confetti"
-import FloatingHearts from "/components/floating-hearts"
-import Loader from "/components/Loader"
+import Countdown from "../components/countdown"
+import BirthdayCelebration from "../components/birthday-celebration"
+import Confetti from "../components/confetti"
+import FloatingHearts from "../components/floating-hearts"
+import Loader from "../components/Loader"
 import { MoveRight, PartyPopper } from "lucide-react"
 
 export default function Home() {
